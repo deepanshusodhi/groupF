@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{7FB75695-A2BD-464A-8A57-98585FBC2F7D}|Default">
+  <MonoDevelop.Ide.ItemProperties.groupF AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_2_lollipop_5_1_-_api_22" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="groupF.csproj">
+    <Files>
+      <File FileName="container.cs" Line="18" Column="6" />
+      <File FileName="MyModel.cs" />
+      <File FileName="ScreenThree.cs" />
+      <File FileName="Resources/values/strings.xml" />
+      <File FileName="Assets/AboutAssets.txt" />
+      <File FileName="ItemImageModel.cs" />
+      <File FileName="Resources/Resource.designer.cs" />
+      <File FileName="Resources/AboutResources.txt" />
+      <File FileName="Register.cs" />
+      <File FileName="ScreenOne.cs" Line="97" Column="51" />
+      <File FileName="MyAdapter.cs" />
+      <File FileName="MainActivity.cs" />
+      <File FileName="ItemImageAdapter.cs" />
+      <File FileName="customerData.cs" />
+      <File FileName="Resources/layout/ScreenThree.xml" />
+      <File FileName="Resources/layout/ScreenOne.xml" />
+      <File FileName="Resources/layout/ScreenTwo.xml" />
+      <File FileName="Properties/AndroidManifest.xml" />
+      <File FileName="Properties/AssemblyInfo.cs" />
+      <File FileName="groupF.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="groupF" expanded="True">
+            <Node name="groupF" expanded="True" selected="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
